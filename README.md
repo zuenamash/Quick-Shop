@@ -3,10 +3,8 @@
  ## Table of Content
 
  ## Description
- 
  <p>This repository contains the Quick Shop Store.</p>
- 
-[Go Back to the top](#Quick-Shopping-Store)
+ #Quick-Shopping-Store
 
 ## Features
 An Online Shopping Store using a public API to display products.
