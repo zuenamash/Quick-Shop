@@ -1,0 +1,22 @@
+{
+  "images": [
+    {
+      "image": "./Assets/images/portrait-two-african-females-holding-shopping-bags-while-reacting-something-their-smartphone-removebg-preview.png",
+      "title": "Find Your Taste",
+      "subtitle": "Express Your Style"
+    },
+    {
+      "image": "./Assets/images/handsome-stylish-black-man-showing-phone-screen-removebg-preview.png",
+      "title": "Shop Anywhere",
+      "subtitle": "Free Delivery to your DoorStep"
+    },
+    {
+      "image": "./Assets/images/Scan to pay-amico.png",
+      "title": "Fast Transactions",
+      "subtitle": "No Boring payment steps"
+    }
+  ],
+  "comments": [
+    
+  ]
+}
