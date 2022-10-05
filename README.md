@@ -25,4 +25,4 @@ Add to cart section adds every item in the cart
 
 ## Authors Info
 
-Gmail - [Zuenah Ma](mnachariazuenah@gmail.com)
+Gmail - [Zuenah Macharia](mnachariazuenah@gmail.com)
